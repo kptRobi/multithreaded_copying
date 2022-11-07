@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pl.wit.projekt","l":"CopyingMachine"},{"p":"pl.wit.projekt","l":"CopyingParameters"},{"p":"pl.wit.projekt","l":"CopyTask"},{"p":"pl.wit.projekt","l":"CopyTests"},{"p":"pl.wit.projekt","l":"Main"}]
